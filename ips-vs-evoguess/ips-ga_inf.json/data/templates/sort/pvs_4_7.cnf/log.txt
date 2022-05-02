@@ -1,0 +1,48 @@
+5.0.17(1)-release
+Next command will be executed as native
+Found: '-f|--find-rb'   Run RB search
+I0502 16:59:59.232213 3731126 main.cpp:86] 
+I0502 16:59:59.232380 3731126 main.cpp:90] itmo-parsat: parallel SAT solver library
+	Git hash:		41556f82
+	Build type:		DEV_FAST
+	Sanitizers mode:	disabled
+	Logging mode:		enabled
+	Tracing mode:		enabled
+	Verification mode:	enabled
+I0502 16:59:59.232390 3731126 main.cpp:91] Input file: "/home/dzhiblavi/evoguess/data/templates/sort/pvs_4_7.cnf"
+I0502 16:59:59.236856 3731126 main.cpp:57] Algorithm config: "core/tests/resources/ga_inf.json"
+I0502 16:59:59.237357 3731126 main.cpp:62] Log config: "resources/config/log.json"
+I0502 16:59:59.243939 3731126 main.cpp:108] Dumping heuristic results to "/home/dzhiblavi/evoguess/data/experiments/ips-ga_inf.json/data/templates/sort/pvs_4_7.cnf/heuristic.txt"
+I0502 16:59:59.244374 3731126 Algorithm.cpp:43] [Thread 5] [Iter 0][Points 13] Best instance: Confl. ratio: 0.25 Size: 2 Fitness: 19.585 Vars: [ 697 715 ] samples: 4 Coverage: 100%
+I0502 17:00:17.310720 3731126 Algorithm.cpp:43] [Thread 5] [Iter 10000][Points 52345] Best instance: Confl. ratio: 0.996094 Size: 11 Fitness: 12.5831 Vars: [ 469 669 670 674 676 679 686 824 831 1172 1209 ] samples: 2048 Coverage: 100%
+I0502 17:00:34.767446 3731126 Algorithm.cpp:43] [Thread 5] [Iter 20000][Points 109591] Best instance: Confl. ratio: 0.996094 Size: 11 Fitness: 12.5831 Vars: [ 469 669 670 674 676 679 686 824 831 1172 1209 ] samples: 2048 Coverage: 100%
+I0502 17:00:50.161780 3731126 Algorithm.cpp:43] [Thread 5] [Iter 30000][Points 167171] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 310 318 347 469 669 670 674 824 831 1172 1209 ] samples: 2048 Coverage: 100%
+I0502 17:01:05.502900 3731126 Algorithm.cpp:43] [Thread 5] [Iter 40000][Points 224615] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 310 318 347 469 669 670 674 824 831 1172 1209 ] samples: 2048 Coverage: 100%
+I0502 17:01:21.130471 3731126 Algorithm.cpp:43] [Thread 5] [Iter 50000][Points 282252] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 310 318 347 469 669 670 674 824 831 1172 1209 ] samples: 2048 Coverage: 100%
+I0502 17:01:36.954582 3731126 Algorithm.cpp:43] [Thread 5] [Iter 60000][Points 339967] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 310 318 347 469 669 670 674 824 831 1172 1209 ] samples: 2048 Coverage: 100%
+I0502 17:01:52.121979 3731126 Algorithm.cpp:43] [Thread 5] [Iter 70000][Points 397711] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 310 318 347 469 669 670 674 824 831 1172 1209 ] samples: 2048 Coverage: 100%
+I0502 17:02:07.987654 3731126 Algorithm.cpp:43] [Thread 5] [Iter 80000][Points 455599] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 310 318 347 469 669 670 674 824 831 1172 1209 ] samples: 2048 Coverage: 100%
+I0502 17:02:23.710500 3731126 Algorithm.cpp:43] [Thread 5] [Iter 90000][Points 513413] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 310 318 347 469 669 670 674 824 831 1172 1209 ] samples: 2048 Coverage: 100%
+I0502 17:02:38.426149 3731126 Algorithm.cpp:43] [Thread 5] [Iter 100000][Points 571375] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 310 318 347 469 669 670 674 824 831 1172 1209 ] samples: 2048 Coverage: 100%
+I0502 17:02:54.565157 3731126 Algorithm.cpp:43] [Thread 5] [Iter 110000][Points 629472] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 310 318 347 469 669 670 674 824 831 1172 1209 ] samples: 2048 Coverage: 100%
+I0502 17:03:09.459491 3731126 Algorithm.cpp:43] [Thread 5] [Iter 120000][Points 687536] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 310 318 347 469 669 670 674 824 831 1172 1209 ] samples: 2048 Coverage: 100%
+I0502 17:03:24.420323 3731126 Algorithm.cpp:43] [Thread 5] [Iter 130000][Points 745681] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 310 318 347 469 669 670 674 824 831 1172 1209 ] samples: 2048 Coverage: 100%
+I0502 17:03:40.814308 3731126 Algorithm.cpp:43] [Thread 5] [Iter 140000][Points 803820] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 310 318 347 469 669 670 674 824 831 1172 1209 ] samples: 2048 Coverage: 100%
+I0502 17:03:56.746579 3731126 Algorithm.cpp:43] [Thread 5] [Iter 150000][Points 861926] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 310 318 347 469 669 670 674 824 831 1172 1209 ] samples: 2048 Coverage: 100%
+I0502 17:04:12.273654 3731126 Algorithm.cpp:43] [Thread 5] [Iter 160000][Points 919970] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 310 318 347 469 669 670 674 824 831 1172 1209 ] samples: 2048 Coverage: 100%
+I0502 17:04:27.424466 3731126 Algorithm.cpp:43] [Thread 5] [Iter 170000][Points 978131] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 310 318 347 469 669 670 674 824 831 1172 1209 ] samples: 2048 Coverage: 100%
+I0502 17:04:43.241026 3731126 Algorithm.cpp:43] [Thread 5] [Iter 180000][Points 1036337] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 310 318 347 469 669 670 674 824 831 1172 1209 ] samples: 2048 Coverage: 100%
+I0502 17:04:58.707785 3731126 Algorithm.cpp:43] [Thread 5] [Iter 190000][Points 1094477] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 310 318 347 469 669 670 674 824 831 1172 1209 ] samples: 2048 Coverage: 100%
+I0502 17:04:59.253501 3731126 ResourceLimit.cpp:15] Time limit exceeded.
+I0502 17:04:59.253516 3731126 main.cpp:125] Result: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 310 318 347 469 669 670 674 824 831 1172 1209 ] samples: 2048 Coverage: 100%
+I0502 17:04:59.253530 3731126 main.cpp:127] Dumping statistics to "/home/dzhiblavi/evoguess/data/experiments/ips-ga_inf.json/data/templates/sort/pvs_4_7.cnf/stats.csv"
+I0502 17:04:59.451155 3731126 main.cpp:134] Dumping backdoor to "/home/dzhiblavi/evoguess/data/experiments/ips-ga_inf.json/data/templates/sort/pvs_4_7.cnf/backdoor.txt"
+I0502 17:04:59.455349 3731126 TimeTracer.cpp:81] Tracing summary:
+                            Name     Count Total (s)   Avg (s)   Bandwidth
+                  algorithm_step    190397         1    0.0016    635.5154
+            algorithm_preprocess         1         1    0.0006   1745.2007
+               algorithm_prepare         1         1    0.0002   5434.7827
+               algorithm_process         1         1  300.0093      0.0033
+               problem_eliminate         1         1    0.0018    550.9642
+               problem_construct         1         1    0.0045    224.6686
+             algorithm_cache_hit  13717322        --        --        --

@@ -1,0 +1,25 @@
+load: cnf with {'path': '../../data/templates/php/php_15_14.cnf'}
+load: input_set with {'_list': [196, 182, 168, 154, 140, 112, 98, 84, 70, 56, 42, 28, 14, 209, 195, 181, 167, 153, 139, 111, 97, 83, 55, 41, 27, 13, 208, 180, 166, 152, 138, 110, 96, 82, 68, 54, 40, 26, 12, 207, 193, 179, 165, 151, 137, 109, 81, 67, 53, 39, 25, 11, 206, 192, 178, 164, 150, 136, 108, 94, 80, 66, 52, 24, 10, 205, 191, 177, 163, 149, 135, 107, 93, 79, 65, 37, 23, 9, 204, 190, 176, 162, 148, 134, 106, 92, 78, 64, 50, 36, 22, 203, 189, 175, 161, 147, 133, 91, 77, 63, 49, 35, 21, 7, 202, 188, 160, 146, 132, 104, 90, 76, 62, 48, 34, 20, 6, 201, 187, 173, 159, 145, 103, 89, 75, 61, 47, 33, 19, 5, 200, 186, 172, 158, 144, 130, 102, 88, 60, 46, 32, 18, 4, 199, 185, 171, 157, 129, 101, 87, 73, 59, 45, 31, 17, 3, 198, 184, 170, 156, 142, 128, 100, 86, 72, 58, 44, 30, 2, 197, 183, 169, 141, 127, 99, 85, 71, 57, 43, 29, 15, 1, 126, 125, 124, 123, 122, 121, 120, 119, 118, 117, 116, 115, 114, 113]}
+load: solver with {}
+load: measure with {}
+load: shaping with {'chunk_rate': 16}
+load: sampling with {'min': 4000, 'steps': 3}
+load: limit with {'value': '00:05:00'}
+load: selection with {}
+load: mutation with {}
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/php/php_15_14.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/php/php_15_14.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/php/php_15_14.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/php/php_15_14.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/php/php_15_14.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/php/php_15_14.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/php/php_15_14.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/php/php_15_14.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/php/php_15_14.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/php/php_15_14.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/php/php_15_14.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/php/php_15_14.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/php/php_15_14.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/php/php_15_14.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/php/php_15_14.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/php/php_15_14.cnf)

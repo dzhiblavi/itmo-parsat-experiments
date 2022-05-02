@@ -1,0 +1,26 @@
+load: cnf with {'path': '../../data/templates/sort/bvp_6_7.cnf'}
+load: input_set with {'_list': [771, 708, 720, 777, 631, 732, 644, 787, 558, 657, 744, 571, 670, 1062, 1009, 583, 691, 1021, 800, 951, 1068, 756, 1516, 963, 1033, 1080, 1523, 976, 695, 694, 672, 1046, 1219, 1255, 1232, 1514, 620, 815, 770, 758, 746, 1260, 524, 1535, 1187, 1060, 1048, 734, 722, 710, 697, 696, 673, 1243, 1091, 997, 922, 606, 660, 647, 634, 622, 610, 609, 536, 659, 573, 560, 559, 538, 1198, 646, 633, 621, 608, 607, 585, 574, 1517, 619, 605, 604, 1035, 1023, 1011, 999, 998, 690, 689, 688, 682, 681, 680, 618, 617, 616, 1543, 964, 953, 952, 768, 754, 753, 752, 707, 692, 102, 15, 1383, 1358, 603, 602, 601, 156, 1267, 996, 995, 766, 765, 764, 494, 493, 127, 99, 20, 1061, 1049, 763, 762, 761, 760, 751, 750, 749, 748, 685, 684, 679, 678, 613, 612, 584, 479, 129, 1540, 1525, 1509, 1370, 600, 599, 547, 546, 544, 509, 508, 507, 475, 473, 97, 96, 46, 2, 1537, 1527, 977, 747, 687, 686, 677, 676, 674, 656, 655, 654, 611, 598, 597, 595, 581, 580, 579, 543, 542, 511, 510, 157, 155, 125, 14, 10, 1542, 1233, 1221, 1220, 1200, 1036, 1024, 1012, 1001, 1000]}
+load: solver with {}
+load: measure with {}
+load: shaping with {'chunk_rate': 16}
+load: sampling with {'min': 4000, 'steps': 3}
+load: limit with {'value': '00:05:00'}
+load: selection with {}
+load: mutation with {}
+load: crossover with {}
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/sort/bvp_6_7.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/sort/bvp_6_7.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/sort/bvp_6_7.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/sort/bvp_6_7.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/sort/bvp_6_7.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/sort/bvp_6_7.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/sort/bvp_6_7.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/sort/bvp_6_7.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/sort/bvp_6_7.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/sort/bvp_6_7.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/sort/bvp_6_7.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/sort/bvp_6_7.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/sort/bvp_6_7.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/sort/bvp_6_7.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/sort/bvp_6_7.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/sort/bvp_6_7.cnf)

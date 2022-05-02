@@ -1,0 +1,54 @@
+5.0.17(1)-release
+Next command will be executed as native
+Found: '-f|--find-rb'   Run RB search
+I0502 17:05:04.659909 3737697 main.cpp:86] 
+I0502 17:05:04.660076 3737697 main.cpp:90] itmo-parsat: parallel SAT solver library
+	Git hash:		41556f82
+	Build type:		DEV_FAST
+	Sanitizers mode:	disabled
+	Logging mode:		enabled
+	Tracing mode:		enabled
+	Verification mode:	enabled
+I0502 17:05:04.660086 3737697 main.cpp:91] Input file: "/home/dzhiblavi/evoguess/data/templates/sort/bvs_7_7.cnf"
+I0502 17:05:04.667636 3737697 main.cpp:57] Algorithm config: "core/tests/resources/ga_inf.json"
+I0502 17:05:04.668133 3737697 main.cpp:62] Log config: "resources/config/log.json"
+I0502 17:05:04.676846 3737697 main.cpp:108] Dumping heuristic results to "/home/dzhiblavi/evoguess/data/experiments/ips-ga_inf.json/data/templates/sort/bvs_7_7.cnf/heuristic.txt"
+I0502 17:05:04.677366 3737697 Algorithm.cpp:43] [Thread 31] [Iter 0][Points 13] Best instance: Confl. ratio: 0.25 Size: 2 Fitness: 19.585 Vars: [ 893 910 ] samples: 4 Coverage: 100%
+I0502 17:05:17.288726 3737697 Algorithm.cpp:43] [Thread 31] [Iter 10000][Points 53618] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:05:28.467541 3737697 Algorithm.cpp:43] [Thread 31] [Iter 20000][Points 110547] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:05:39.753424 3737697 Algorithm.cpp:43] [Thread 31] [Iter 30000][Points 167896] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:05:51.235994 3737697 Algorithm.cpp:43] [Thread 31] [Iter 40000][Points 225485] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:06:02.687070 3737697 Algorithm.cpp:43] [Thread 31] [Iter 50000][Points 283223] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:06:14.563374 3737697 Algorithm.cpp:43] [Thread 31] [Iter 60000][Points 341032] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:06:26.823679 3737697 Algorithm.cpp:43] [Thread 31] [Iter 70000][Points 398980] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:06:38.459865 3737697 Algorithm.cpp:43] [Thread 31] [Iter 80000][Points 456840] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:06:50.368953 3737697 Algorithm.cpp:43] [Thread 31] [Iter 90000][Points 514736] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:07:02.122570 3737697 Algorithm.cpp:43] [Thread 31] [Iter 100000][Points 572782] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:07:13.334918 3737697 Algorithm.cpp:43] [Thread 31] [Iter 110000][Points 630776] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:07:24.819312 3737697 Algorithm.cpp:43] [Thread 31] [Iter 120000][Points 688882] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:07:36.491268 3737697 Algorithm.cpp:43] [Thread 31] [Iter 130000][Points 746938] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:07:48.822533 3737697 Algorithm.cpp:43] [Thread 31] [Iter 140000][Points 805056] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:08:00.704131 3737697 Algorithm.cpp:43] [Thread 31] [Iter 150000][Points 863204] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:08:12.668458 3737697 Algorithm.cpp:43] [Thread 31] [Iter 160000][Points 921272] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:08:24.576826 3737697 Algorithm.cpp:43] [Thread 31] [Iter 170000][Points 979395] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:08:36.875202 3737697 Algorithm.cpp:43] [Thread 31] [Iter 180000][Points 1037544] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:08:48.091817 3737697 Algorithm.cpp:43] [Thread 31] [Iter 190000][Points 1095727] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:08:59.523715 3737697 Algorithm.cpp:43] [Thread 31] [Iter 200000][Points 1153970] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:09:11.674366 3737697 Algorithm.cpp:43] [Thread 31] [Iter 210000][Points 1212241] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:09:23.333628 3737697 Algorithm.cpp:43] [Thread 31] [Iter 220000][Points 1270389] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:09:34.991520 3737697 Algorithm.cpp:43] [Thread 31] [Iter 230000][Points 1328500] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:09:46.945673 3737697 Algorithm.cpp:43] [Thread 31] [Iter 240000][Points 1386730] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:09:58.840165 3737697 Algorithm.cpp:43] [Thread 31] [Iter 250000][Points 1445025] Best instance: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:10:04.679134 3737697 ResourceLimit.cpp:15] Time limit exceeded.
+I0502 17:10:04.679152 3737697 main.cpp:125] Result: Confl. ratio: 0.998047 Size: 11 Fitness: 11.9986 Vars: [ 750 751 752 770 771 784 786 787 803 859 1239 ] samples: 2048 Coverage: 100%
+I0502 17:10:04.679163 3737697 main.cpp:127] Dumping statistics to "/home/dzhiblavi/evoguess/data/experiments/ips-ga_inf.json/data/templates/sort/bvs_7_7.cnf/stats.csv"
+I0502 17:10:04.825017 3737697 main.cpp:134] Dumping backdoor to "/home/dzhiblavi/evoguess/data/experiments/ips-ga_inf.json/data/templates/sort/bvs_7_7.cnf/backdoor.txt"
+I0502 17:10:04.829434 3737697 TimeTracer.cpp:81] Tracing summary:
+                            Name     Count Total (s)   Avg (s)   Bandwidth
+                  algorithm_step    255138         1    0.0012    851.9853
+            algorithm_preprocess         1         1    0.0010    987.1668
+               algorithm_prepare         1         1    0.0002   4385.9648
+               algorithm_process         1         1  300.0020      0.0033
+               problem_eliminate         1         1    0.0033    306.8426
+               problem_construct         1         1    0.0075    132.6612
+             algorithm_cache_hit  18384330        --        --        --

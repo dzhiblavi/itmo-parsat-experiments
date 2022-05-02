@@ -1,0 +1,44 @@
+5.0.17(1)-release
+Next command will be executed as native
+Found: '-f|--find-rb'   Run RB search
+I0502 17:15:16.515269 3750667 main.cpp:86] 
+I0502 17:15:16.515439 3750667 main.cpp:90] itmo-parsat: parallel SAT solver library
+	Git hash:		41556f82
+	Build type:		DEV_FAST
+	Sanitizers mode:	disabled
+	Logging mode:		enabled
+	Tracing mode:		enabled
+	Verification mode:	enabled
+I0502 17:15:16.515447 3750667 main.cpp:91] Input file: "/home/dzhiblavi/evoguess/data/templates/par_9.cnf"
+I0502 17:15:16.517412 3750667 main.cpp:57] Algorithm config: "core/tests/resources/ga_inf.json"
+I0502 17:15:16.517910 3750667 main.cpp:62] Log config: "resources/config/log.json"
+I0502 17:15:16.521559 3750667 main.cpp:108] Dumping heuristic results to "/home/dzhiblavi/evoguess/data/experiments/ips-ga_inf.json/data/templates/par_9.cnf/heuristic.txt"
+I0502 17:15:16.521828 3750667 Algorithm.cpp:43] [Thread 71] [Iter 0][Points 12] Best instance: Confl. ratio: 0.25 Size: 2 Fitness: 19.585 Vars: [ 12 16 ] samples: 4 Coverage: 100%
+I0502 17:15:35.503827 3750667 Algorithm.cpp:43] [Thread 71] [Iter 10000][Points 53479] Best instance: Confl. ratio: 0.996826 Size: 12 Fitness: 12.8555 Vars: [ 16 32 47 61 74 98 119 135 146 151 155 158 ] samples: 4096 Coverage: 100%
+I0502 17:15:55.066010 3750667 Algorithm.cpp:43] [Thread 71] [Iter 20000][Points 111031] Best instance: Confl. ratio: 0.996826 Size: 12 Fitness: 12.8555 Vars: [ 16 32 47 61 74 98 119 135 146 151 155 158 ] samples: 4096 Coverage: 100%
+I0502 17:16:13.144619 3750667 Algorithm.cpp:43] [Thread 71] [Iter 30000][Points 168991] Best instance: Confl. ratio: 0.996826 Size: 12 Fitness: 12.8555 Vars: [ 16 32 47 61 74 98 119 135 146 151 155 158 ] samples: 4096 Coverage: 100%
+I0502 17:16:32.339169 3750667 Algorithm.cpp:43] [Thread 71] [Iter 40000][Points 227262] Best instance: Confl. ratio: 0.996826 Size: 12 Fitness: 12.8555 Vars: [ 16 32 47 61 74 98 119 135 146 151 155 158 ] samples: 4096 Coverage: 100%
+I0502 17:16:50.673144 3750667 Algorithm.cpp:43] [Thread 71] [Iter 50000][Points 285505] Best instance: Confl. ratio: 0.996826 Size: 12 Fitness: 12.8555 Vars: [ 16 32 47 61 74 98 119 135 146 151 155 158 ] samples: 4096 Coverage: 100%
+I0502 17:17:09.195657 3750667 Algorithm.cpp:43] [Thread 71] [Iter 60000][Points 343949] Best instance: Confl. ratio: 0.996826 Size: 12 Fitness: 12.8555 Vars: [ 16 32 47 61 74 98 119 135 146 151 155 158 ] samples: 4096 Coverage: 100%
+I0502 17:17:27.516161 3750667 Algorithm.cpp:43] [Thread 71] [Iter 70000][Points 402396] Best instance: Confl. ratio: 0.996826 Size: 12 Fitness: 12.8555 Vars: [ 16 32 47 61 74 98 119 135 146 151 155 158 ] samples: 4096 Coverage: 100%
+I0502 17:17:46.394250 3750667 Algorithm.cpp:43] [Thread 71] [Iter 80000][Points 460928] Best instance: Confl. ratio: 0.996826 Size: 12 Fitness: 12.8555 Vars: [ 16 32 47 61 74 98 119 135 146 151 155 158 ] samples: 4096 Coverage: 100%
+I0502 17:18:05.136471 3750667 Algorithm.cpp:43] [Thread 71] [Iter 90000][Points 519601] Best instance: Confl. ratio: 0.996826 Size: 12 Fitness: 12.8555 Vars: [ 16 32 47 61 74 98 119 135 146 151 155 158 ] samples: 4096 Coverage: 100%
+I0502 17:18:23.756918 3750667 Algorithm.cpp:43] [Thread 71] [Iter 100000][Points 578226] Best instance: Confl. ratio: 0.996826 Size: 12 Fitness: 12.8555 Vars: [ 16 32 47 61 74 98 119 135 146 151 155 158 ] samples: 4096 Coverage: 100%
+I0502 17:18:42.399420 3750667 Algorithm.cpp:43] [Thread 71] [Iter 110000][Points 636931] Best instance: Confl. ratio: 0.996826 Size: 12 Fitness: 12.8555 Vars: [ 16 32 47 61 74 98 119 135 146 151 155 158 ] samples: 4096 Coverage: 100%
+I0502 17:19:00.920538 3750667 Algorithm.cpp:43] [Thread 71] [Iter 120000][Points 695598] Best instance: Confl. ratio: 0.996826 Size: 12 Fitness: 12.8555 Vars: [ 16 32 47 61 74 98 119 135 146 151 155 158 ] samples: 4096 Coverage: 100%
+I0502 17:19:20.945363 3750667 Algorithm.cpp:43] [Thread 71] [Iter 130000][Points 754347] Best instance: Confl. ratio: 0.996826 Size: 12 Fitness: 12.8555 Vars: [ 16 32 47 61 74 98 119 135 146 151 155 158 ] samples: 4096 Coverage: 100%
+I0502 17:19:39.409658 3750667 Algorithm.cpp:43] [Thread 71] [Iter 140000][Points 813079] Best instance: Confl. ratio: 0.996826 Size: 12 Fitness: 12.8555 Vars: [ 16 32 47 61 74 98 119 135 146 151 155 158 ] samples: 4096 Coverage: 100%
+I0502 17:19:58.483510 3750667 Algorithm.cpp:43] [Thread 71] [Iter 150000][Points 871834] Best instance: Confl. ratio: 0.996826 Size: 12 Fitness: 12.8555 Vars: [ 16 32 47 61 74 98 119 135 146 151 155 158 ] samples: 4096 Coverage: 100%
+I0502 17:20:16.522279 3750667 ResourceLimit.cpp:15] Time limit exceeded.
+I0502 17:20:16.522316 3750667 main.cpp:125] Result: Confl. ratio: 0.996826 Size: 12 Fitness: 12.8555 Vars: [ 16 32 47 61 74 98 119 135 146 151 155 158 ] samples: 4096 Coverage: 100%
+I0502 17:20:16.522327 3750667 main.cpp:127] Dumping statistics to "/home/dzhiblavi/evoguess/data/experiments/ips-ga_inf.json/data/templates/par_9.cnf/stats.csv"
+I0502 17:20:16.612677 3750667 main.cpp:134] Dumping backdoor to "/home/dzhiblavi/evoguess/data/experiments/ips-ga_inf.json/data/templates/par_9.cnf/backdoor.txt"
+I0502 17:20:16.614209 3750667 TimeTracer.cpp:81] Tracing summary:
+                            Name     Count Total (s)   Avg (s)   Bandwidth
+                  algorithm_step    159560         1    0.0019    532.4692
+            algorithm_preprocess         1         1    0.0003   3597.1223
+               algorithm_prepare         1         1    0.0001   9708.7383
+               algorithm_process         1         1  300.0006      0.0033
+               problem_eliminate         1         1    0.0013    781.8608
+               problem_construct         1         1    0.0020    511.7707
+             algorithm_cache_hit  11570664        --        --        --

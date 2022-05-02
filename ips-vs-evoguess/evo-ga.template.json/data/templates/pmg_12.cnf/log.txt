@@ -1,0 +1,26 @@
+load: cnf with {'path': '../../data/templates/pmg_12.cnf'}
+load: input_set with {'_list': [19, 98, 171, 179, 73, 11, 72, 47, 5, 101, 148, 13, 155, 3, 58, 55, 83, 115, 95, 186, 48, 106, 75, 85, 36, 152, 143, 96, 93, 114, 90, 41, 77, 50, 89, 175, 21, 169, 29, 111, 87, 53, 25, 6, 157, 61, 97, 110, 189, 147, 150, 105, 14, 40, 149, 141, 35, 20, 185, 33, 167, 103, 60, 108, 56, 54, 65, 121, 80, 158, 52, 165, 63, 122, 109, 27, 132, 32, 181, 113, 100, 92, 127, 118, 174, 42, 91, 129, 51, 119, 159, 67, 79, 34, 18, 70, 126, 184, 4, 156, 160, 137]}
+load: solver with {}
+load: measure with {}
+load: shaping with {'chunk_rate': 16}
+load: sampling with {'min': 4000, 'steps': 3}
+load: limit with {'value': '00:05:00'}
+load: selection with {}
+load: mutation with {}
+load: crossover with {}
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/pmg_12.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/pmg_12.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/pmg_12.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/pmg_12.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/pmg_12.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/pmg_12.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/pmg_12.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/pmg_12.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/pmg_12.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/pmg_12.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/pmg_12.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/pmg_12.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/pmg_12.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/pmg_12.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/pmg_12.cnf)
+parse cnf... (/home/dzhiblavi/evoguess/data/templates/../../data/templates/pmg_12.cnf)
