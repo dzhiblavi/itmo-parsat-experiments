@@ -1,0 +1,37 @@
+2022-05-04T19:54:34+03:00
+Running /home/dzhiblavi/itmo-parsat/build/core/tests/bench/benchmark
+Run on (20 X 4909.75 MHz CPU s)
+CPU Caches:
+  L1 Data 32 KiB (x10)
+  L1 Instruction 32 KiB (x10)
+  L2 Unified 256 KiB (x10)
+  L3 Unified 20480 KiB (x1)
+Load Average: 0.27, 0.08, 0.26
+name,iterations,real_time,cpu_time,time_unit,bytes_per_second,items_per_second,label,error_occurred,error_message
+"BM_prop_random/1/0/iterations:100",100,2.04589e+06,2.04592e+06,ns,,,,,
+"BM_prop_random/4/0/iterations:100",100,2.17265e+06,35861.5,ns,,,,,
+"BM_prop_random/8/0/iterations:100",100,2.15612e+06,34707.4,ns,,,,,
+"BM_prop_random/1/1/iterations:100",100,3.49258e+06,3.4926e+06,ns,,,,,
+"BM_prop_random/4/1/iterations:100",100,3.52461e+06,34480,ns,,,,,
+"BM_prop_random/8/1/iterations:100",100,3.60715e+06,35309.8,ns,,,,,
+"BM_prop_random/1/2/iterations:100",100,2.62296e+08,2.62295e+08,ns,,,,,
+"BM_prop_random/4/2/iterations:100",100,6.73677e+07,47194.8,ns,,,,,
+"BM_prop_random/8/2/iterations:100",100,4.30612e+07,41174.3,ns,,,,,
+"BM_prop_full/1/0/iterations:100",100,1.65508e+06,1.6551e+06,ns,,,,,
+"BM_prop_full/4/0/iterations:100",100,1.72021e+06,34865.3,ns,,,,,
+"BM_prop_full/8/0/iterations:100",100,1.74753e+06,34554.8,ns,,,,,
+"BM_prop_full/1/1/iterations:100",100,2.59627e+06,2.5963e+06,ns,,,,,
+"BM_prop_full/4/1/iterations:100",100,2.77085e+06,43581.4,ns,,,,,
+"BM_prop_full/8/1/iterations:100",100,2.77361e+06,44320.8,ns,,,,,
+"BM_prop_full/1/2/iterations:100",100,1.71432e+08,1.71432e+08,ns,,,,,
+"BM_prop_full/4/2/iterations:100",100,5.04363e+07,95397.7,ns,,,,,
+"BM_prop_full/8/2/iterations:100",100,3.29676e+07,78822.6,ns,,,,,
+"BM_prop_tree/1/0/iterations:100",100,350840,350844,ns,,,,,
+"BM_prop_tree/4/0/iterations:100",100,417296,24323.6,ns,,,,,
+"BM_prop_tree/8/0/iterations:100",100,413073,23944.5,ns,,,,,
+"BM_prop_tree/1/1/iterations:100",100,394995,394998,ns,,,,,
+"BM_prop_tree/4/1/iterations:100",100,386736,10214,ns,,,,,
+"BM_prop_tree/8/1/iterations:100",100,398392,8415.86,ns,,,,,
+"BM_prop_tree/1/2/iterations:100",100,1.17615e+07,1.17614e+07,ns,,,,,
+"BM_prop_tree/4/2/iterations:100",100,3.77492e+06,31760.2,ns,,,,,
+"BM_prop_tree/8/2/iterations:100",100,1.9023e+06,97084,ns,,,,,

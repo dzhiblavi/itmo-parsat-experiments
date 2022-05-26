@@ -1,0 +1,46 @@
+2022-05-04T20:16:50+03:00
+Running /home/dzhiblavi/itmo-parsat/build/core/tests/bench/benchmark
+Run on (20 X 5002.14 MHz CPU s)
+CPU Caches:
+  L1 Data 32 KiB (x10)
+  L1 Instruction 32 KiB (x10)
+  L2 Unified 256 KiB (x10)
+  L3 Unified 20480 KiB (x1)
+Load Average: 0.44, 0.57, 0.42
+name,iterations,real_time,cpu_time,time_unit,bytes_per_second,items_per_second,label,error_occurred,error_message
+"BM_prop_random/1/0/iterations:1",1,1.13803e+08,1.13804e+08,ns,,,,,
+"BM_prop_random/4/0/iterations:1",1,2.88324e+07,40770,ns,,,,,
+"BM_prop_random/8/0/iterations:1",1,1.56042e+07,79262,ns,,,,,
+"BM_prop_random/1/1/iterations:1",1,2.0225e+06,2.0224e+06,ns,,,,,
+"BM_prop_random/4/1/iterations:1",1,2.15842e+06,40395,ns,,,,,
+"BM_prop_random/8/1/iterations:1",1,2.12332e+06,6054,ns,,,,,
+"BM_prop_random/1/2/iterations:1",1,3.56495e+06,3.56476e+06,ns,,,,,
+"BM_prop_random/4/2/iterations:1",1,3.52748e+06,31741,ns,,,,,
+"BM_prop_random/8/2/iterations:1",1,3.72225e+06,35219,ns,,,,,
+"BM_prop_random/1/3/iterations:1",1,2.59844e+08,2.59845e+08,ns,,,,,
+"BM_prop_random/4/3/iterations:1",1,6.60433e+07,94133,ns,,,,,
+"BM_prop_random/8/3/iterations:1",1,3.44653e+07,40554,ns,,,,,
+"BM_prop_full/1/0/iterations:1",1,8.16419e+07,8.16436e+07,ns,,,,,
+"BM_prop_full/4/0/iterations:1",1,2.89847e+07,68741,ns,,,,,
+"BM_prop_full/8/0/iterations:1",1,1.53944e+07,136297,ns,,,,,
+"BM_prop_full/1/1/iterations:1",1,1.71082e+06,1.71063e+06,ns,,,,,
+"BM_prop_full/4/1/iterations:1",1,1.68928e+06,35410,ns,,,,,
+"BM_prop_full/8/1/iterations:1",1,1.71822e+06,6244,ns,,,,,
+"BM_prop_full/1/2/iterations:1",1,2.71712e+06,2.71697e+06,ns,,,,,
+"BM_prop_full/4/2/iterations:1",1,2.81705e+06,34788,ns,,,,,
+"BM_prop_full/8/2/iterations:1",1,2.85711e+06,6406,ns,,,,,
+"BM_prop_full/1/3/iterations:1",1,1.74384e+08,1.74383e+08,ns,,,,,
+"BM_prop_full/4/3/iterations:1",1,4.92953e+07,103969,ns,,,,,
+"BM_prop_full/8/3/iterations:1",1,2.97521e+07,78361,ns,,,,,
+"BM_prop_tree/1/0/iterations:1",1,1.33098e+07,1.33099e+07,ns,,,,,
+"BM_prop_tree/4/0/iterations:1",1,3.61254e+06,185599,ns,,,,,
+"BM_prop_tree/8/0/iterations:1",1,1.94784e+06,44419,ns,,,,,
+"BM_prop_tree/1/1/iterations:1",1,379687,379514,ns,,,,,
+"BM_prop_tree/4/1/iterations:1",1,418180,6394,ns,,,,,
+"BM_prop_tree/8/1/iterations:1",1,437873,6214,ns,,,,,
+"BM_prop_tree/1/2/iterations:1",1,559804,555359,ns,,,,,
+"BM_prop_tree/4/2/iterations:1",1,487422,40286,ns,,,,,
+"BM_prop_tree/8/2/iterations:1",1,447626,9449,ns,,,,,
+"BM_prop_tree/1/3/iterations:1",1,1.2353e+07,1.23531e+07,ns,,,,,
+"BM_prop_tree/4/3/iterations:1",1,3.62041e+06,106881,ns,,,,,
+"BM_prop_tree/8/3/iterations:1",1,2.08262e+06,112674,ns,,,,,
